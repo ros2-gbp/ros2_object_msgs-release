@@ -1,0 +1,24 @@
+ros-dashing-object-msgs (0.4.0-0bionic) bionic; urgency=high
+
+  * Merge pull request #3 <https://github.com/RachelRen05/ros2_object_msgs/issues/3> from chaoli2/master
+    Revert "update object message type to support multiple device"
+  * Revert "update object message type to support multiple device"
+    This reverts commit a2dcbd98a705e881692e636a34d1029afd41fb90.
+  * Merge pull request #2 <https://github.com/RachelRen05/ros2_object_msgs/issues/2> from chaoli2/support_parallel
+    update object message type to support multiple device
+  * update object message type to support multiple device
+    Signed-off-by: Chao Li <mailto:chao1.li@intel.com>
+  * Contributors: Chao Li
+
+ -- Xiaojun Huang <xiaojun.huang@intel.com>  Tue, 14 May 2019 16:00:00 -0000
+
+ros-dashing-object-msgs (0.3.0-0bionic) bionic; urgency=high
+
+  * Update README.md
+  * v0.3.0 release
+    Signed-off-by: Xiaojun Huang <mailto:xiaojun.huang@intel.com>
+  * Contributors: Xiaojun Huang
+
+ -- Xiaojun Huang <xiaojun.huang@intel.com>  Wed, 28 Mar 2018 16:00:00 -0000
+
+
