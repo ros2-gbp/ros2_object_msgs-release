@@ -1,3 +1,26 @@
+## object_msgs (foxy) - 0.4.0-1
+
+The packages in the `object_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --new-track --rosdistro foxy --track foxy object_msgs` on `Fri, 02 Dec 2022 05:46:32 -0000`
+
+The `object_msgs` package was released.
+
+Version of package(s) in repository `object_msgs`:
+
+- upstream repository: https://github.com/intel/ros2_object_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## object_msgs (dashing) - 0.4.0-1
 
 The packages in the `object_msgs` repository were released into the `dashing` distro by running `/usr/local/bin/bloom-release --rosdistro dashing --track dashing object_msgs` on `Mon, 20 May 2019 11:09:21 -0000`
